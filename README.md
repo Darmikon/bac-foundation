@@ -1,4 +1,4 @@
-##  Backbone Almond Compass Bootstrap 3 Boilerplate
+##  Backbone Almond Compass Foundation 5 Boilerplate
 ===================================
 What is it?
 
@@ -14,7 +14,7 @@ Simple Backbone application with configured infrastucture.
 	- to minify final css 
     - to compile templates to JST 
     - to build all javascript files to single one due to Almond.js 
-6. Bootstrap 3.
+6. Foundation 5.
     
 I included not important dependencies to show how include them into backbone views.
 For example, jquery ui and datepicker may be removed from boilerplate.
