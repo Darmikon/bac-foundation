@@ -19,6 +19,9 @@ require.config({
 
         lapter:'plugins/localStorageAdapter/localStorageAdapter-1.0-beta',
         datepicker_localization:'libs/jquery/jquery-datepicker-localization',
+        L10n :{
+            exports : "L10n"
+        },
 		"text":"libs/requirejs/text",
 		"L10n":"L10n/L10n",
 		"events":"events/globalEvents",
